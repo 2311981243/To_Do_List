@@ -1,0 +1,25 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: beige;
+}
+h1
+{
+    text-align: center;
+}
+input
+{
+    margin-left: 20px;
+    width: 300px;
+}
+#container
+{
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    background-color: antiquewhite;
+}
